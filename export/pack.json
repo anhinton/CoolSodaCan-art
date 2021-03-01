@@ -1,5 +1,6 @@
 {
     filterMin: "Linear",
     filterMag: "Linear",
-    combineSubdirectories: true
+    combineSubdirectories: true,
+    alias: true
 }
