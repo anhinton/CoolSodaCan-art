@@ -10,8 +10,8 @@ max: 100
 - Emission - 
 lowMin: 0.0
 lowMax: 0.0
-highMin: 30.0
-highMax: 30.0
+highMin: 120.0
+highMax: 120.0
 relative: false
 scalingCount: 1
 scaling0: 1.0
@@ -20,8 +20,8 @@ timeline0: 0.0
 - Life - 
 lowMin: 0.0
 lowMax: 0.0
-highMin: 500.0
-highMax: 500.0
+highMin: 333.0
+highMax: 333.0
 relative: false
 scalingCount: 1
 scaling0: 1.0
@@ -60,8 +60,8 @@ timeline0: 0.0
 - X Scale - 
 lowMin: 0.0
 lowMax: 0.0
-highMin: 30.0
-highMax: 30.0
+highMin: 32.0
+highMax: 32.0
 relative: false
 scalingCount: 1
 scaling0: 1.0
@@ -130,7 +130,10 @@ aligned: false
 additive: true
 behind: false
 premultipliedAlpha: false
-spriteMode: single
+spriteMode: random
 - Image Paths -
-particle01.png
+particle_circle.png
+particle_star1.png
+particle_star2.png
+particle_star3.png
 
