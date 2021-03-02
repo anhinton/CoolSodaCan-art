@@ -1,4 +1,4 @@
-Can explosion
+Explosion
 - Delay -
 active: false
 - Duration - 
@@ -36,7 +36,9 @@ active: false
 - Y Offset - 
 active: false
 - Spawn Shape - 
-shape: square
+shape: ellipse
+edges: false
+side: both
 - Spawn Width - 
 lowMin: 0.0
 lowMax: 0.0
@@ -70,42 +72,15 @@ timeline0: 0.0
 - Y Scale - 
 active: false
 - Velocity - 
-active: true
-lowMin: 0.0
-lowMax: 0.0
-highMin: 20.0
-highMax: 20.0
-relative: false
-scalingCount: 1
-scaling0: 1.0
-timelineCount: 1
-timeline0: 0.0
+active: false
 - Angle - 
-active: true
-lowMin: 0.0
-lowMax: 0.0
-highMin: 90.0
-highMax: 90.0
-relative: false
-scalingCount: 1
-scaling0: 1.0
-timelineCount: 1
-timeline0: 0.0
+active: false
 - Rotation - 
 active: false
 - Wind - 
 active: false
 - Gravity - 
-active: true
-lowMin: 0.0
-lowMax: 0.0
-highMin: -80.0
-highMax: -80.0
-relative: false
-scalingCount: 1
-scaling0: 1.0
-timelineCount: 1
-timeline0: 0.0
+active: false
 - Tint - 
 colorsCount: 3
 colors0: 1.0
