@@ -1,8 +1,8 @@
 
 graphics.png
-size: 1024,512
+size: 1024, 512
 format: RGBA8888
-filter: Linear,Linear
+filter: Linear, Linear
 repeat: none
 blue_anim
   rotate: false
@@ -200,23 +200,9 @@ particle_circle
   orig: 32, 32
   offset: 0, 0
   index: -1
-particle_star1
+particle_starburst
   rotate: false
   xy: 314, 21
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-particle_star2
-  rotate: false
-  xy: 360, 44
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-particle_star3
-  rotate: false
-  xy: 394, 44
   size: 32, 32
   orig: 32, 32
   offset: 0, 0

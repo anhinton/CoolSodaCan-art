@@ -21,6 +21,18 @@
   <defs
      id="defs2205">
     <linearGradient
+       id="linearGradient905"
+       inkscape:collect="always">
+      <stop
+         id="stop901"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop903"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient865"
        inkscape:collect="always">
       <stop
@@ -112,6 +124,17 @@
        id="radialGradient867"
        xlink:href="#linearGradient865"
        inkscape:collect="always" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.99794347,0,0.00843845)"
+       r="4.1049384"
+       fy="4.1032448"
+       fx="3.9841332"
+       cy="4.1032448"
+       cx="3.9841332"
+       id="radialGradient907"
+       xlink:href="#linearGradient905"
+       inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
      fit-margin-bottom="0"
@@ -126,11 +149,11 @@
      units="px"
      showgrid="false"
      inkscape:document-rotation="0"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g895"
      inkscape:document-units="px"
      inkscape:cy="13.67859"
      inkscape:cx="13.785698"
-     inkscape:zoom="16"
+     inkscape:zoom="11.313708"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -188,7 +211,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Star 1"
-     style="display:inline">
+     style="display:none">
     <path
        sodipodi:type="star"
        style="fill:url(#radialGradient913);fill-opacity:1;stroke-width:0.264583"
@@ -257,5 +280,31 @@
        inkscape:transform-center-x="-0.10172114"
        inkscape:transform-center-y="-0.19928132"
        transform="matrix(1.0623835,0,0,1.0463904,-0.13879366,-0.0697656)" />
+  </g>
+  <g
+     style="display:inline;opacity:0.998"
+     inkscape:label="Starburst"
+     id="g895"
+     inkscape:groupmode="layer">
+    <path
+       transform="matrix(1.0312782,0,0,1.0334034,0.12458375,-0.00697373)"
+       inkscape:transform-center-y="-0.196808"
+       inkscape:transform-center-x="-0.098742971"
+       d="M 5.7813706,6.6745327 5.3459313,8.0663796 4.1279608,7.2642614 3.0091567,8.1997412 2.4181926,6.8664719 0.9712361,7.0485765 1.1949052,5.6074596 -0.12080518,4.978372 0.84648383,3.886952 0.07974826,2.6464031 1.4835498,2.2511981 1.5092221,0.79305338 2.9038391,1.2195382 3.7137686,0.00674831 4.6564199,1.119517 5.9934597,0.53713419 6.1848603,1.9828906 7.6245097,2.2158173 7.0038912,3.5355439 8.0890716,4.5098275 6.853476,5.2845205 7.2396504,6.6908329 Z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="1.228188"
+       sodipodi:arg1="0.94258871"
+       sodipodi:r2="4.1538987"
+       sodipodi:r1="3.1154239"
+       sodipodi:cy="4.1538987"
+       sodipodi:cx="3.9504499"
+       sodipodi:sides="11"
+       id="path893"
+       style="fill:url(#radialGradient907);fill-opacity:1;stroke-width:0.264583"
+       sodipodi:type="star"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </g>
 </svg>

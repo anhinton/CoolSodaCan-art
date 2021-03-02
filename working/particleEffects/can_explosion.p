@@ -133,7 +133,5 @@ premultipliedAlpha: false
 spriteMode: random
 - Image Paths -
 particle_circle.png
-particle_star1.png
-particle_star2.png
-particle_star3.png
+particle_starburst.png
 
