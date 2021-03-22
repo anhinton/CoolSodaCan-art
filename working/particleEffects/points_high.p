@@ -60,8 +60,8 @@ timeline0: 0.0
 - X Scale - 
 lowMin: 0.0
 lowMax: 0.0
-highMin: 31.0
-highMax: 31.0
+highMin: 67.0
+highMax: 67.0
 relative: false
 scalingCount: 1
 scaling0: 1.0
@@ -71,8 +71,8 @@ timeline0: 0.0
 active: true
 lowMin: 0.0
 lowMax: 0.0
-highMin: 18.0
-highMax: 18.0
+highMin: 19.0
+highMax: 19.0
 relative: false
 scalingCount: 1
 scaling0: 1.0
@@ -90,9 +90,9 @@ active: false
 active: false
 - Tint - 
 colorsCount: 3
-colors0: 1.0
-colors1: 1.0
-colors2: 1.0
+colors0: 0.0
+colors1: 0.0
+colors2: 0.0
 timelineCount: 1
 timeline0: 0.0
 - Transparency - 
@@ -114,5 +114,5 @@ behind: false
 premultipliedAlpha: false
 spriteMode: single
 - Image Paths -
-particle6.png
+particle666.png
 
